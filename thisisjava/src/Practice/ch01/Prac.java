@@ -6,5 +6,6 @@ public class Prac {
 		System.out.println("김지민");
 		System.out.println("김지민2");
 		System.out.println("김지민4");
+		System.out.println("잘되나"+"잘된다");
 	}
 }
