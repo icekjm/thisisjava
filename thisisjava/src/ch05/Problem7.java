@@ -9,6 +9,6 @@ public class Problem7 {
 			if (max < array[i]) max = array[i];
 		}
 		System.out.println(max);
-		System.out.println("잘되나");
+		System.out.println("잘되나"+"잘된다");
 	}
 }
