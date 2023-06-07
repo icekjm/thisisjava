@@ -10,5 +10,6 @@ public class Problem7 {
 		}
 		System.out.println(max);
 		System.out.println("잘되나"+"잘된다");
+		System.out.println("잘되나"+"잘된다"+"추가");
 	}
 }
